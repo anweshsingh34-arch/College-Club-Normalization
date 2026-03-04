@@ -1,0 +1,4 @@
+ -- 3NF Achieved:
+-- Student attributes depend only on StudentID
+-- Club attributes depend only on ClubID
+-- No transitive dependencies exist
